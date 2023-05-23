@@ -14,7 +14,7 @@ npm install
 
 ### Compiles and minifies for production
 
-`npm run builld`
+`npm run build`
 
 ## Icons
 

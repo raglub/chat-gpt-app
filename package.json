@@ -1,6 +1,6 @@
 {
   "name": "chat-gpt-app",
-  "version": "1.0.0-rc1",
+  "version": "0.0.0",
   "description": "The application is a wrapper for the web version of Chat GPT.",
   "main": "main.js",
   "homepage": "https://github.com/raglub/chat-gpt-app",
