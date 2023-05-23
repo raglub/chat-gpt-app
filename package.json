@@ -3,14 +3,14 @@
   "version": "1.0.0-rc1",
   "description": "The application is a wrapper for the web version of Chat GPT.",
   "main": "main.js",
-  "homepage": "devszyma@gmail.com",
+  "homepage": "https://github.com/raglub/chat-gpt-app",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron .",
     "build": "electron-builder build"
   },
   "build": {
-    "appId": "app.chatgpt-4",
+    "appId": "dev.szyma.chat-gpt-app",
     "files": [
       "icon/**/*",
       "package.json",
